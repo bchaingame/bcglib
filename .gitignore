@@ -1,0 +1,6 @@
+temp
+.idea
+*.iml
+bcglib.exe
+go.mod
+go.sum
